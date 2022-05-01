@@ -1,0 +1,74 @@
+body {
+  padding-top: 50px;
+}
+
+nav.navbar a {
+  color: #34495e !important;
+  font-size: 1.1em;
+}
+.navbar-brand {
+  font-size: 1.5em !important;
+  font-weight: bolder;
+}
+
+.jumbotron {
+  background-color: #34495e;
+  color: white;
+}
+
+.introduction {
+  color: #323232;
+  font-size: ;
+}
+
+#autobiography,
+#projects,
+#books,
+#films {
+  padding-top: 50px;
+}
+
+footer {
+  color: white;
+  background-color: #34495e;
+  padding: 20px 0 10px 0;
+}
+
+footer a {
+  color: #2ecc71;
+}
+
+footer a:hover {
+  color: #7f8c8d;
+}
+
+footer a:visited {
+  color: #2ecc71;
+}
+ background-color: #28505d;
+}
+
+.planePath {
+  stroke: #d9dada;
+  stroke-width: 0.1%;
+  stroke-width: 0.5%;
+  stroke-dasharray: 1% 2%;
+  stroke-linecap: round;
+  fill: none;
+}
+
+.fil1 {
+  fill: #d9dada;
+}
+
+.fil2 {
+  fill: #c5c6c6;
+}
+
+.fil4 {
+  fill: #9d9e9e;
+}
+
+.fil3 {
+  fill: #aeafb0;
+}
